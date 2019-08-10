@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+- [Data Science Related](#data-science-related)
+    + [Python](#python)
+    + [Image-Analytics](#image-analytics)
+    + [Machine-Learning](#machine-learning)
+- [Big Data Related](#big-data-related)
+    + [Scala](#scala)
+    + [Spark](#spark)
+    + [HBase](#hbase)
+    + [Nifi](#nifi)
+    + [Hadoop-Cluster](#hadoop-cluster)
+- [Project Management](#project-management)
+    + [OpenProject](#openproject)
 
-You can use the [editor on GitHub](https://github.com/NUSTemple/nustemple.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+>This also serves as the landing page for all my github material. This repo is to store all collected information for those topics for future usage
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Data Science Related
 
-### Markdown
+#### [Python](/Python)
+- How to create a python project by Pycharm
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### [Image-Analytics](/Image-Analytics)
 
-```markdown
-Syntax highlighted code block
+#### [Machine-Learning](/Machine-Learning)
+  - random forest
+  - svm
+  - xgboost
 
-# Header 1
-## Header 2
-### Header 3
+## Big Data Related
 
-- Bulleted
-- List
+#### [Scala](/Scala)
+  - Scala Syntax and Tutorials
+  - How to create a scala project using Maven
+    - example POM file
 
-1. Numbered
-2. List
+#### [Spark](/Spark)
+  - Sample Spark application
+  - Spark-HBase integration
+  - Spark-Hive integration
+  - spark-shell vs spark-submit
 
-**Bold** and _Italic_ and `Code` text
+#### [HBase](/HBase)
 
-[Link](url) and ![Image](src)
-```
+  - HBase shell command
+  - HBase filter
+#### [Nifi](/Nifi)
+  - How use Nifi to transfer data
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### [Hadoop-Cluster](/Hadoop-Cluster)
+  - Start to build your own cluster
 
-### Jekyll Themes
+## Project Management
+#### [OpenProject](https://github.com/NUSTemple/my-markdown-notes/tree/master/Hadoop-Cluster)
+  - How to host a Open Project for project management
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NUSTemple/nustemple.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> [TOC Generator](https://ecotrust-canada.github.io/markdown-toc/)
