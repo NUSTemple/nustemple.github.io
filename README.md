@@ -49,7 +49,7 @@
   - Start to build your own cluster
 
 ## Project Management
-#### [OpenProject](https://github.com/NUSTemple/my-markdown-notes/tree/master/Hadoop-Cluster)
+#### [OpenProject](/hadoop-cluster/)
   - How to host a Open Project for project management
 
 
